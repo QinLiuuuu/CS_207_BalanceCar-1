@@ -3,15 +3,16 @@ Balance Car （ Bluetooth Control ）
 
 
 Repository Comtemts:
-/build
+ /build
    -/Project Code
    -/Bluetooth Code
-/img
-/Example 
-/Build process (img)
-/Final Show
-/LICENSE
-/README.MD
+ /img
+ /Example 
+ /Build process (img)
+ /Final Show
+ /Schematic Diagram 
+ /LICENSE
+ /README.MD
 
 
 Material： 
