@@ -3,7 +3,7 @@ Balance Car （ Bluetooth Control ）
 
 
 Repository Comtemts:
- /build
+ - /build
    -/Project Code
    -/Bluetooth Code
  /img
@@ -34,9 +34,9 @@ Material：
 
 
 Team 
-Shan Zhang
-Qin Liu
-Yumin Li 
+- Shan Zhang
+- Qin Liu
+- Yumin Li 
 
 Credit: 
 http://www.instructables.com/id/How-to-Build-a-Wireless-Upload-Self-balancing-Robo/?nsukey=QzqYVOMrN%2BjBO6g6Ad8W37U4ysys0%2BbJB68c2GFXb8rKECbk4OTMMwlsIKZJObLgAqj9vYbqvTsuINF4GFFW3sny6%2FMrNOO4rnu7CjnRsfxbUvthOdrFx6CbQzoyaZyFTRxKQwbaH%2Fo5Ays6eqctuD5p5%2BLWmnhcq3ARnEnVQ6Rigakdji9Fe49RXCNJLv67
